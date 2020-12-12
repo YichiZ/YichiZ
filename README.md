@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## 🔭 I’m currently working on 
+
+X2OMedia Collaboration Room project, a video conferencing app with hardware integration.
+
+Main stack: Javascript, React.js ecosystem with Typescript, Node.js, WebRTC.
+
+## 🌱 I’m currently learning
+Data Structures and Algorithm, with Java
+
 <!--
 **YichiZ/YichiZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
