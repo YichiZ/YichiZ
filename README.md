@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-## 🔭 I’m currently working on 
+## 🔭 I’m currently working on
 
-X2OMedia Collaboration Room project, a video conferencing app with hardware integration.
+Videos at Microsoft's Office Media Group.
 
-Main stack: Javascript, React.js ecosystem with Typescript, Node.js, WebRTC.
+Main stack: Javascript, React, Typescript, C#.
 
 ## 🌱 I’m currently learning
-Data Structures and Algorithm, with Java
+Rust
 
 <!--
 **YichiZ/YichiZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
