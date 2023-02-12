@@ -2,13 +2,12 @@
 
 ## 🔭 I’m currently working on
 
-Videos and Streaming at Microsoft's Office Media Group.
+Google Photos
 
-Main stack: Javascript, React, Typescript, C#.
+Main stack: Typescript, C++.
 
 ## 🌱 I’m currently doing
-- Solve at least 1 leetcode question a day
-- Solve 1 system design question a day
+- Playing with new tech.
 
 <!--
 **YichiZ/YichiZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
