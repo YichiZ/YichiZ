@@ -2,13 +2,14 @@
 
 ## 🔭 I’m currently working on
 
-Google Photos AI Editing
-Frontend (iOS and web) dev.
+**Google Photos AI Editing**
 
-Main stack: Swift, Objective C, Typescript, C++.
+- Frontend (iOS and web) dev.
+
+- Main stack: Swift, Objective C, Typescript, C++.
 
 ## 🌱 I’m currently doing
-- Delightful UI.
+Delightful UI.
 
 <!--
 **YichiZ/YichiZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
