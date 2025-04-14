@@ -2,12 +2,13 @@
 
 ## 🔭 I’m currently working on
 
-Google Photos
+Google Photos AI Editing
+Frontend (iOS and web) dev.
 
-Main stack: Typescript, C++.
+Main stack: Swift, Objective C, Typescript, C++.
 
 ## 🌱 I’m currently doing
-- Playing with new tech.
+- 
 
 <!--
 **YichiZ/YichiZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
