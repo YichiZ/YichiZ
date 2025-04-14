@@ -8,7 +8,7 @@ Frontend (iOS and web) dev.
 Main stack: Swift, Objective C, Typescript, C++.
 
 ## 🌱 I’m currently doing
-- 
+- Delightful UI.
 
 <!--
 **YichiZ/YichiZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
